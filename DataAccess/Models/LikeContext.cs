@@ -11,7 +11,7 @@ namespace DataAccess.Models
     {
         public LikeContext() : base("LikeDB")
         {
-
+            Database.SetInitializer(new CreateDatabaseIfNotExists<LikeContext>());
         }
 
         public DbSet<UserLike> UserLikes { get; set; }
