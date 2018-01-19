@@ -1,0 +1,12 @@
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\bin\Debug\DataAccess.dll
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\bin\Debug\DataAccess.pdb
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Daniele Ventorino\Downloads\DanieleVentorino\BusinessLayer\obj\Debug\BusinessLayer.pdb

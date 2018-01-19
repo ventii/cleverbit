@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Use this area to provide additional information.</p>
+
+<p>
+    <a href="" class="btn btn-primary btn-lg likebutton" data-like="true" @(!Request.IsAuthenticated ? "disabled" : "")>
+        <span class="text">...</span>
+        <span class="count">0</span>
+    </a>
+</p>
+<script>
+    var pageName = "about";
+</script>
+
+
