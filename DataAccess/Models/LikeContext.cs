@@ -9,7 +9,7 @@ namespace DataAccess.Models
 {
     public class LikeContext : DbContext
     {
-        public LikeContext() : base("LikeDB")
+        public LikeContext() : base("LikeProjectDB")
         {
             Database.SetInitializer(new CreateDatabaseIfNotExists<LikeContext>());
         }
